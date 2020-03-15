@@ -5,7 +5,7 @@ This application is a simple calander that allows the user to save events for ea
 
 ## Installation
  
-
+https://abdurezakmussa.github.io/Day_Planner.github.io/
 
  ## License
  © 2020 Abdurezak M Abdelkader,  University of Richmond (Bootcamp Spot)
